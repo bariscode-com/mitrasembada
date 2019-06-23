@@ -42,13 +42,13 @@
                 <a class="nav-link" href="./tentang">ABOUT</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">PRODUCT & SERVICE</a>
+                <a class="nav-link" href="./product_service">PRODUCT & SERVICE</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">CLIENT LIST</a>
+                <a class="nav-link" href="./client_list">CLIENT LIST</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">CONTACT</a>
+                <a class="nav-link" href="./contact">CONTACT</a>
             </li>
             </ul>
         </div>

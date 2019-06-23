@@ -2,7 +2,7 @@
 /* Medium devices (tablets, 768px and up)*/
 @media (max-width: 768px) { 
     .body{
-        background-color: rgb(48, 46, 46);
+        background-color: rgb(255, 255, 255);
         padding-left: 5px;
         padding-right: 5px;
         padding-bottom: 5px;
@@ -33,7 +33,7 @@
  }
  @media (min-width: 768px) { 
     .body{
-        background-color: rgb(48, 46, 46);
+        background-color: rgb(255, 255, 255);
         padding-left: 5px;
         padding-right: 5px;
         padding-bottom: 5px;
@@ -65,7 +65,7 @@
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (max-width: 575px) { 
     .body{
-        background-color: rgb(17, 8, 8);
+        background-color: rgb(255, 255, 255);
         padding-left: 5px;
         padding-right: 5px;
         padding-bottom: 5px;
@@ -108,7 +108,7 @@
     text-align: center;
 }
 /*Ukuran layar dekstop*/
-@media (min-width: 960px) { 
+@media (min-width: 760px) { 
     .welcome{
         background-image: url(../img/bc-welcome.png);
         
@@ -189,7 +189,51 @@
         font-weight: bold;
         color: #fff;
     }
-
+    .product_service{
+        background-image: url(../img/sss.PNG);
+        background-size: 100% 287px;
+        background-repeat: no-repeat;
+        height: 287px;
+        width: 100%;
+    }
+    .box-feature{
+        width: 800px;
+        height: 800px;
+        margin: auto;
+        margin-top: -10px;
+    }
+    .feature-item{
+        height: 200px;
+        width: 220px;
+        margin: auto;
+        line-height: 200px;
+        cursor: pointer;
+    }
+    .feature-item img{
+        height: 200px;
+        width: 220px;
+        margin: auto;
+    }
+    .white-bc{
+        background-color: #fff;
+    }
+    .clist{
+        background-color: #fff;
+    }
+    .box-logo-client{
+        height: 800px;
+        width: 100%;
+        overflow: auto;
+    }
+    .box-logo-client img{
+        height: 70px;
+        width: 100;
+    }
+    .box-client-list{
+        height: 800px;
+        width: 100%;
+        overflow: auto;
+    }
 }
 /*Ukuran layar tablet*/
 @media (max-width: 760px) { 
@@ -273,6 +317,34 @@
         font-weight: bold;
         color: #fff;
     }
+        .product_service{
+        background-image: url(../img/sss.PNG);
+        background-size: 100% 187px;
+        background-repeat: no-repeat;
+        height: 187px;
+        width: 100%;
+    }
+    .box-feature{
+        height: 800px;
+        margin: auto;
+        margin-top: -10px;
+        padding-top: 20px;
+    }
+    .feature-item{
+        height: 120px;
+        width: 140px;
+        margin: auto;
+        line-height: 100px;
+        cursor: pointer;
+    }
+    .feature-item img{
+        height: 120px;
+        width: 140px;
+        margin: auto;
+    }
+    .white-bc{
+        background-color: #fff;
+    }
 
 }
 @media (max-width: 650px) { 
@@ -355,4 +427,33 @@
         font-weight: bold;
         color: #fff;
     }
+    .product_service{
+        background-image: url(../img/sss.PNG);
+        background-size: 100% 110px;
+        background-repeat: no-repeat;
+        height: 110px;
+        width: 100%;
+    }
+    .box-feature{
+        height: 400px;
+        margin: auto;
+        margin-top: -10px;
+        padding-top: 20px;
+    }
+    .feature-item{
+        height: 80px;
+        width: 100px;
+        margin: auto;
+        line-height: 100px;
+        cursor: pointer;
+    }
+    .feature-item img{
+        height: 80px;
+        width: 100px;
+        margin: auto;
+    }
+    .white-bc{
+        background-color: #fff;
+    }
+
 }
