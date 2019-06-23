@@ -1,40 +1,6 @@
 <div class="container clist"><br>
     <div class="row">
-        <div class="col-7">
-            <div class="box-logo-client">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-                <img src="./assets/img/logo-client1.png" alt="">
-            </div>
-        </div>
-        <div class="col-5">
+        <div class="col-8">
             <div class="box-client-list">
                 <h5 align="left">Warehouse & Factory</h5>
                 <ul>
@@ -68,6 +34,19 @@
                 </ul>
 
 
+            </div>
+        </div>
+        
+        <div class="col-4">
+            <div class="box-logo-client">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
+                <img src="./assets/img/logo-client1.png" alt="">
             </div>
         </div>
     </div>

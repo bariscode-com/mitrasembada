@@ -218,7 +218,6 @@
         background-color: #fff;
     }
     .clist{
-        background-color: #fff;
     }
     .box-logo-client{
         height: 800px;
@@ -227,12 +226,37 @@
     }
     .box-logo-client img{
         height: 70px;
-        width: 100;
+        width: 200px;
     }
     .box-client-list{
         height: 800px;
         width: 100%;
         overflow: auto;
+    }
+    .contact{
+        height: 700px;
+        background-image: url(../img/dsdsds.jpg);
+        
+        background-repeat: no-repeat;
+        background-size: 100% 950px; 
+    }
+    .bawah-contact{
+        background-color: rgba(255, 255, 255, 0.397);
+        height: 950px;
+    }
+    .kontaks{
+        height: 300px;
+        width: 300px;
+        background-color: transparent;
+        margin-top: 320px;
+    }
+    .boks{
+        height: 350px;
+        width: 350px;
+        margin: auto;
+        background-color: rgba(17, 19, 53, 0.541);
+        padding: 20px;
+        color: aliceblue
     }
 }
 /*Ukuran layar tablet*/
@@ -345,6 +369,48 @@
     .white-bc{
         background-color: #fff;
     }
+    .clist{
+        background-color: #fff;
+    }
+    .box-logo-client{
+        height: 800px;
+        width: 100%;
+        overflow: auto;
+    }
+    .box-logo-client img{
+        height: 70px;
+        width: 100;
+    }
+    .box-client-list{
+        height: 800px;
+        width: 100%;
+        overflow: auto;
+    }
+    .contact{
+        height: 1130px;
+        background-image: url(../img/dsdsds.jpg);
+        
+        background-repeat: no-repeat;
+        background-size: 100% 1130px; 
+    }
+    .bawah-contact{
+        background-color: rgba(255, 255, 255, 0.397);
+        height: 1130px;
+    }
+    .kontaks{
+        height: 350px;
+        width: 350px;
+        background-color: transparent;
+        margin-top: 20px;
+    }
+    .boks{
+        height: 350px;
+        width: 350px;
+        margin: auto;
+        background-color: rgba(17, 19, 53, 0.541);
+        padding: 20px;
+        color: aliceblue;
+    }
 
 }
 @media (max-width: 650px) { 
@@ -454,6 +520,48 @@
     }
     .white-bc{
         background-color: #fff;
+    }
+    .clist{
+        background-color: #fff;
+    }
+    .box-logo-client{
+        height: 400px;
+        width: 100%;
+        overflow: auto;
+    }
+    .box-logo-client img{
+        height: 30px;
+        width: 105px;
+    }
+    .box-client-list{
+        height: 400px;
+        width: 100%;
+        overflow: auto;
+    }
+    .contact{
+        height: 1130px;
+        background-image: url(../img/dsdsds.jpg);
+        
+        background-repeat: no-repeat;
+        background-size: 100% 1130px; 
+    }
+    .bawah-contact{
+        background-color: rgba(255, 255, 255, 0.397);
+        height: 1130px;
+    }
+    .kontaks{
+        height: 350px;
+        width: 350px;
+        background-color: transparent;
+        margin-top: 20px;
+    }
+    .boks{
+        height: 350px;
+        width: 350px;
+        margin: auto;
+        background-color: rgba(17, 19, 53, 0.541);
+        padding: 20px;
+        color: aliceblue;
     }
 
 }
